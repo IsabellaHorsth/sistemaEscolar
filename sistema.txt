@@ -1,3 +1,4 @@
 1. Cadastrar novos alunos
 2. Registrar notas das avaliações
 3. Controlar faltas e presenças
+4. Emitir boletim escolar
